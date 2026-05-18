@@ -22,6 +22,7 @@ We organize the academic research lifecycle as eight interconnected stages group
 | <img width="360px" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
 | | |
 
+For additional details, kindly refer to our :books: [**Paper**](https://worldbench.github.io/assets_common/papers/survey-ai-auto-research.pdf) and :earth_asia: [**Project Page**](https://worldbench.github.io/awesome-ai-auto-research).
 
 ### :books: Citation
 If you find this work helpful for your research, please kindly consider citing our paper:
