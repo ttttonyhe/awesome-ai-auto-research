@@ -5,31 +5,35 @@
 
 # :sunglasses: Awesome AI Auto-Research
 
-This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the full research lifecycle.
+| <img width="100%" src="docs/assets/teaser_paper.png"> |
+|:-:|
 
+This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
 
-<!-- ### :books: Citation
+### Background
 
-If you find this work helpful for your research, please kindly consider citing our paper:
-```bibtex
-@article{ai-auto-research,
-  title   = {{AI} for {Auto-Research}: Roadmap \& User Guide},
-  author  = {},
-  journal = {arXiv preprint arXiv:},
-  year    = {2026}
-}
-``` -->
-
-
-# Background
+We organize the academic research lifecycle as eight interconnected stages grouped into four epistemological phases. Each phase serves a distinct function in producing, scrutinizing, and communicating scientific knowledge.
 
 | | |
 |:-:|:-|
-| **Phase 1: Creation** | Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
-| **Phase 2: Writing** | Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
-| **Phase 3: Validation** | Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
-| **Phase 4: Dissemination** | Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
+| <img width="200" src="docs/assets/s1.png"> | **Phase 1: Creation**<br>Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
+| <img width="200" src="docs/assets/s5.png"> | **Phase 2: Writing**<br>Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
+| <img width="200" src="docs/assets/s6.png"> | **Phase 3: Validation**<br>Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
+| <img width="200" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
 | | |
+
+
+### :books: Citation
+If you find this work helpful for your research, please kindly consider citing our paper:
+```bibtex
+@article{survey-ai-auto-research,
+    title   = {{AI} for {Auto-Research}: Roadmap \& User Guide},
+    author  = {Kong, Lingdong and Sun, Xian and Chow, Wei and Li, Linfeng and Lin, Kevin Qinghong and Zhang, Xuan Billy and Wang, Song and Li, Rong and Wu, Qing and Gao, Wei and Wang, Yingshuo and Liu, Amber and Qu, Leigang and Ng, Lai Xing and Cottereau, Benoit R. and Liu, Ziwei and Chua, Tat-Seng and Ooi, Wei Tsang},
+    journal = {arXiv preprint arXiv:2605.xxxxx},
+    year    = {2026}
+}
+```
+
 
 
 ### Table of Contents
