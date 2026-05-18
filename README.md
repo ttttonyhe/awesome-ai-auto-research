@@ -10,16 +10,16 @@
 
 This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
 
-#### Background
+#### AI-Assisted Research
 
 We organize the academic research lifecycle as eight interconnected stages grouped into four epistemological phases. Each phase serves a distinct function in producing, scrutinizing, and communicating scientific knowledge.
 
 | | |
 |:-:|:-|
-| <img width="300px" src="docs/assets/s1.png"> | **Phase 1: Creation**<br>Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
-| <img width="300px" src="docs/assets/s5.png"> | **Phase 2: Writing**<br>Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
-| <img width="300px" src="docs/assets/s6.png"> | **Phase 3: Validation**<br>Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
-| <img width="300px" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
+| <img width="360px" src="docs/assets/s1.png"> | **Phase 1: Creation**<br>Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
+| <img width="360px" src="docs/assets/s5.png"> | **Phase 2: Writing**<br>Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
+| <img width="360px" src="docs/assets/s6.png"> | **Phase 3: Validation**<br>Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
+| <img width="360px" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
 | | |
 
 
@@ -36,7 +36,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 
-### Table of Contents
+## Table of Contents
 - [**0. Background**](#background)
 - [**1. Idea Generation**](#1.-idea-generation)
     - [LLM Internal Knowledge-Based Generation](#llm-internal-knowledge-based-generation)
@@ -58,21 +58,21 @@ If you find this work helpful for your research, please kindly consider citing o
     - [Table Understanding & Generation](#table-understanding-generation)
     - [Mathematical Formulas & TikZ](#mathematical-formulas-tikz)
     - [Visual Fidelity and Scientific Accuracy Assessment](#visual-fidelity-and-scientific-accuracy-assessment)
-- [**5. Peer Review**](#5.-peer-review)
+- [**5. Paper Writing**](#5.-paper-writing)
+    - [Semi-Automated Writing Assistance](#semi-automated-writing-assistance)
+    - [Fully Automated Paper Generation](#fully-automated-paper-generation)
+    - [Societal Analysis](#societal-analysis)
+    - [Writing Quality and AI Detection Assessment](#writing-quality-and-ai-detection-assessment)
+- [**6. Peer Review**](#6.-peer-review)
     - [Automated Review Generation](#automated-review-generation)
     - [Meta-Review & Reviewer Matching](#meta-review-reviewer-matching)
     - [Review Quality Assessment](#review-quality-assessment)
     - [Adversarial Attacks & Bias Analysis](#adversarial-attacks-bias-analysis)
     - [Detection & Policy](#detection-policy)
-- [**6. Rebuttal**](#6.-rebuttal)
+- [**7. Rebuttal**](#7.-rebuttal)
     - [Reviewer Comment Analysis](#reviewer-comment-analysis)
     - [Automated Rebuttal Generation](#automated-rebuttal-generation)
     - [Rebuttal Effectiveness Assessment](#rebuttal-effectiveness-assessment)
-- [**7. Paper Writing**](#7.-paper-writing)
-    - [Semi-Automated Writing Assistance](#semi-automated-writing-assistance)
-    - [Fully Automated Paper Generation](#fully-automated-paper-generation)
-    - [Societal Analysis](#societal-analysis)
-    - [Writing Quality and AI Detection Assessment](#writing-quality-and-ai-detection-assessment)
 - [**8. Dissemination (Paper2X)**](#8.-dissemination-paper2x)
     - [Slides & Presentations](#slides--presentations)
     - [Posters](#posters)
@@ -86,6 +86,12 @@ If you find this work helpful for your research, please kindly consider citing o
 - [**10. Societal & Critical Perspectives**](#10.-societal-critical-perspectives)
 - [**11. Surveys & Curated Lists**](#11.-surveys-curated-lists)
 - [**12. Tools & GitHub Repos**](#12.-tools-github-repos)
+
+
+
+| <img width="100%" src="docs/assets/phase1.png"> |
+|:-:|
+
 # 1. Idea Generation
 
 ### LLM Internal Knowledge-Based Generation
@@ -383,7 +389,78 @@ If you find this work helpful for your research, please kindly consider citing o
 ||
 
 
-# 5. Peer Review
+
+| <img width="100%" src="docs/assets/phase2.png"> |
+|:-:|
+
+
+
+# 5. Paper Writing
+
+### Semi-Automated Writing Assistance
+
+> In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub |
+|:-:|:-|:-:|:-:|:-:|
+||
+| `CoAuthor` | [![arXiv](https://img.shields.io/badge/arXiv-2201.06796-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2201.06796)<br>CoAuthor: Human-AI Collaborative Writing with Language Models | arXiv 2022 | - | - |
+| `Script&Shift` | [![arXiv](https://img.shields.io/badge/arXiv-2502.07440-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.07440) | CHI 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dl.acm.org/doi/10.1145/3706598.3713882) | - |
+| `AI in the Writing Process` | [![arXiv](https://img.shields.io/badge/arXiv-2503.10000-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.10000) | AIED 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_14) | - |
+| `ScholarCopilot` | [![arXiv](https://img.shields.io/badge/arXiv-2504.00824-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2504.00824)<br>ScholarCopilot: Training LLMs for Academic Writing with Integrated Citation | arXiv 2025 | - | - |
+| `OpenDraft` | - | GitHub 2025 | - | [![GitHub](https://img.shields.io/github/stars/federicodeponte/opendraft)](https://github.com/federicodeponte/opendraft) |
+| `DraftMarks` | [![arXiv](https://img.shields.io/badge/arXiv-2509.23505-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.23505)<br>DraftMarks: Enhancing Transparency in Human-AI Co-Writing Through Interactive Skeuomorphic Process Traces | arXiv 2025 | - | - |
+| `XtraGPT` | [![arXiv](https://img.shields.io/badge/arXiv-2505.11336-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.11336)<br>XtraGPT: Context-Aware and Controllable Academic Paper Revision | arXiv 2025 | - | - |
+| `PaperDebugger` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02589-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02589)<br>PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/PaperDebugger/PaperDebugger)](https://github.com/PaperDebugger/PaperDebugger) |
+| `LimAgents` | [![arXiv](https://img.shields.io/badge/arXiv-2601.11578-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.11578)<br>Multi-Agent LLMs for Generating Research Limitations | arXiv 2026 | - | - |
+||
+
+### Fully Automated Paper Generation
+
+> In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub |
+|:-:|:-|:-:|:-:|:-:|
+||
+| `CycleResearcher` | [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.00816)<br>CycleResearcher: Improving Automated Research via Automated Review | ICLR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wengsyx.github.io/Researcher/) | - |
+| `FutureGen` | [![arXiv](https://img.shields.io/badge/arXiv-2503.16561-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.16561)<br>FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Article | arXiv 2025 | - | - |
+| `APRES` | [![arXiv](https://img.shields.io/badge/arXiv-2603.03142-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.03142)<br>APRES: An Agentic Paper Revision and Evaluation System | arXiv 2026 | - | - |
+||
+
+### Societal Analysis
+
+> In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub |
+|:-:|:-|:-:|:-:|:-:|
+||
+| - | [![arXiv](https://img.shields.io/badge/arXiv-2600.00000-b31b1b?style=flat-square&logo=arxiv)](https://www.nature.com/articles/s41586-025-08681-8)<br>Artificial Intelligence Tools Expand Scientists' Impact but Contract Science's Focus | Nature 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nature.com/articles/s41586-025-08681-8) | - |
+| `Nature AI Survey` | [![arXiv](https://img.shields.io/badge/arXiv-2600.00000-b31b1b?style=flat-square&logo=arxiv)](https://www.nature.com/articles/d41586-026-00159-z)<br>More than Half of Researchers Now Use AI for Peer Review | Nature 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nature.com/articles/d41586-026-00159-z) | - |
+||
+
+### Writing Quality and AI Detection Assessment
+
+> In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub |
+|:-:|:-|:-:|:-:|:-:|
+||
+| `Mapping LLM Use` | [![arXiv](https://img.shields.io/badge/arXiv-2404.01268-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.01268)<br>Mapping the Increasing Use of LLMs in Scientific Papers | arXiv 2024 | - | - |
+| `CycleReviewer` | [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.00816)<br>CycleResearcher: Improving Automated Research via Automated Review | ICLR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wengsyx.github.io/Researcher/) | - |
+| `Stanford Agentic` | - | Web 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://paperreview.ai/tech-overview) | - |
+| `SciIG` | [![arXiv](https://img.shields.io/badge/arXiv-2508.14273-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.14273)<br>Let's Use ChatGPT To Write Our Paper! Benchmarking LLMs To Write the Introduction of a Research Paper | arXiv 2025 | - | - |
+| `Watermarking` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15772-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.15772)<br>Detecting LLM-Generated Peer Reviews | arXiv 2025 | - | - |
+| `PaperWritingBench` | [![arXiv](https://img.shields.io/badge/arXiv-2604.05018-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.05018)<br>PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing | arXiv 2026 | - | - |
+||
+
+
+
+| <img width="100%" src="docs/assets/phase3.png"> |
+|:-:|
+
+
+
+# 6. Peer Review
 
 ### Automated Review Generation
 
@@ -466,7 +543,7 @@ If you find this work helpful for your research, please kindly consider citing o
 ||
 
 
-# 6. Rebuttal
+# 7. Rebuttal
 
 ### Reviewer Comment Analysis
 
@@ -503,63 +580,10 @@ If you find this work helpful for your research, please kindly consider citing o
 ||
 
 
-# 7. Paper Writing
 
-### Semi-Automated Writing Assistance
+| <img width="100%" src="docs/assets/phase4.png"> |
+|:-:|
 
-> In chronological order, from the earliest to the latest.
-
-| Model | Paper | Venue | Website | GitHub |
-|:-:|:-|:-:|:-:|:-:|
-||
-| `CoAuthor` | [![arXiv](https://img.shields.io/badge/arXiv-2201.06796-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2201.06796)<br>CoAuthor: Human-AI Collaborative Writing with Language Models | arXiv 2022 | - | - |
-| `Script&Shift` | [![arXiv](https://img.shields.io/badge/arXiv-2502.07440-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.07440) | CHI 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dl.acm.org/doi/10.1145/3706598.3713882) | - |
-| `AI in the Writing Process` | [![arXiv](https://img.shields.io/badge/arXiv-2503.10000-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.10000) | AIED 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://link.springer.com/chapter/10.1007/978-3-031-64315-6_14) | - |
-| `ScholarCopilot` | [![arXiv](https://img.shields.io/badge/arXiv-2504.00824-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2504.00824)<br>ScholarCopilot: Training LLMs for Academic Writing with Integrated Citation | arXiv 2025 | - | - |
-| `OpenDraft` | - | GitHub 2025 | - | [![GitHub](https://img.shields.io/github/stars/federicodeponte/opendraft)](https://github.com/federicodeponte/opendraft) |
-| `DraftMarks` | [![arXiv](https://img.shields.io/badge/arXiv-2509.23505-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.23505)<br>DraftMarks: Enhancing Transparency in Human-AI Co-Writing Through Interactive Skeuomorphic Process Traces | arXiv 2025 | - | - |
-| `XtraGPT` | [![arXiv](https://img.shields.io/badge/arXiv-2505.11336-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.11336)<br>XtraGPT: Context-Aware and Controllable Academic Paper Revision | arXiv 2025 | - | - |
-| `PaperDebugger` | [![arXiv](https://img.shields.io/badge/arXiv-2512.02589-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.02589)<br>PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/PaperDebugger/PaperDebugger)](https://github.com/PaperDebugger/PaperDebugger) |
-| `LimAgents` | [![arXiv](https://img.shields.io/badge/arXiv-2601.11578-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.11578)<br>Multi-Agent LLMs for Generating Research Limitations | arXiv 2026 | - | - |
-||
-
-### Fully Automated Paper Generation
-
-> In chronological order, from the earliest to the latest.
-
-| Model | Paper | Venue | Website | GitHub |
-|:-:|:-|:-:|:-:|:-:|
-||
-| `CycleResearcher` | [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.00816)<br>CycleResearcher: Improving Automated Research via Automated Review | ICLR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wengsyx.github.io/Researcher/) | - |
-| `FutureGen` | [![arXiv](https://img.shields.io/badge/arXiv-2503.16561-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.16561)<br>FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Article | arXiv 2025 | - | - |
-| `APRES` | [![arXiv](https://img.shields.io/badge/arXiv-2603.03142-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.03142)<br>APRES: An Agentic Paper Revision and Evaluation System | arXiv 2026 | - | - |
-||
-
-### Societal Analysis
-
-> In chronological order, from the earliest to the latest.
-
-| Model | Paper | Venue | Website | GitHub |
-|:-:|:-|:-:|:-:|:-:|
-||
-| - | [![arXiv](https://img.shields.io/badge/arXiv-2600.00000-b31b1b?style=flat-square&logo=arxiv)](https://www.nature.com/articles/s41586-025-08681-8)<br>Artificial Intelligence Tools Expand Scientists' Impact but Contract Science's Focus | Nature 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nature.com/articles/s41586-025-08681-8) | - |
-| `Nature AI Survey` | [![arXiv](https://img.shields.io/badge/arXiv-2600.00000-b31b1b?style=flat-square&logo=arxiv)](https://www.nature.com/articles/d41586-026-00159-z)<br>More than Half of Researchers Now Use AI for Peer Review | Nature 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nature.com/articles/d41586-026-00159-z) | - |
-||
-
-### Writing Quality and AI Detection Assessment
-
-> In chronological order, from the earliest to the latest.
-
-| Model | Paper | Venue | Website | GitHub |
-|:-:|:-|:-:|:-:|:-:|
-||
-| `Mapping LLM Use` | [![arXiv](https://img.shields.io/badge/arXiv-2404.01268-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2404.01268)<br>Mapping the Increasing Use of LLMs in Scientific Papers | arXiv 2024 | - | - |
-| `CycleReviewer` | [![arXiv](https://img.shields.io/badge/arXiv-2411.00816-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.00816)<br>CycleResearcher: Improving Automated Research via Automated Review | ICLR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wengsyx.github.io/Researcher/) | - |
-| `Stanford Agentic` | - | Web 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://paperreview.ai/tech-overview) | - |
-| `SciIG` | [![arXiv](https://img.shields.io/badge/arXiv-2508.14273-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.14273)<br>Let's Use ChatGPT To Write Our Paper! Benchmarking LLMs To Write the Introduction of a Research Paper | arXiv 2025 | - | - |
-| `Watermarking` | [![arXiv](https://img.shields.io/badge/arXiv-2503.15772-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.15772)<br>Detecting LLM-Generated Peer Reviews | arXiv 2025 | - | - |
-| `PaperWritingBench` | [![arXiv](https://img.shields.io/badge/arXiv-2604.05018-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.05018)<br>PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing | arXiv 2026 | - | - |
-||
 
 
 # 8. Dissemination (Paper2X)
