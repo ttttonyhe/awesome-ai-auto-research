@@ -10,16 +10,16 @@
 
 This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
 
-### Background
+#### Background
 
 We organize the academic research lifecycle as eight interconnected stages grouped into four epistemological phases. Each phase serves a distinct function in producing, scrutinizing, and communicating scientific knowledge.
 
 | | |
 |:-:|:-|
-| <img width="200" src="docs/assets/s1.png"> | **Phase 1: Creation**<br>Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
-| <img width="200" src="docs/assets/s5.png"> | **Phase 2: Writing**<br>Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
-| <img width="200" src="docs/assets/s6.png"> | **Phase 3: Validation**<br>Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
-| <img width="200" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
+| <img width="300px" src="docs/assets/s1.png"> | **Phase 1: Creation**<br>Generating novel research ideas, searching and synthesizing literature, running coding experiments, and creating publication-quality tables and figures. This phase spans **Idea Generation**, **Literature Review**, **Coding & Experiments**, and **Tables & Figures**. |
+| <img width="300px" src="docs/assets/s5.png"> | **Phase 2: Writing**<br>Drafting, editing, and polishing academic manuscripts. AI assistance ranges from semi-automated grammar and citation tools to fully automated paper generation — the most commercially mature yet ethically contested stage. |
+| <img width="300px" src="docs/assets/s6.png"> | **Phase 3: Validation**<br>Automated peer review generation, reviewer-paper matching, review quality assessment, and AI-assisted author rebuttals. This phase covers **Peer Review** and **Rebuttal & Revision**. |
+| <img width="300px" src="docs/assets/s8.png"> | **Phase 4: Dissemination**<br>Converting papers into slides, posters, videos, websites, and social media content. Each output format targets a different audience and demands its own design logic and AI tool chain. |
 | | |
 
 
