@@ -1,5 +1,5 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![arXiv](https://img.shields.io/badge/arXiv-YOUR_ARXIV_ID-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/YOUR_ARXIV_ID)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.xxxxx-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.xxxxx)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-ai-auto-research&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-ai-auto-research/pulls)
 
@@ -28,10 +28,13 @@ For additional details, kindly refer to our :books: [**Paper**](https://worldben
 If you find this work helpful for your research, please kindly consider citing our paper:
 ```bibtex
 @article{survey-ai-auto-research,
-    title   = {{AI} for {Auto-Research}: Roadmap \& User Guide},
-    author  = {Kong, Lingdong and Sun, Xian and Chow, Wei and Li, Linfeng and Lin, Kevin Qinghong and Zhang, Xuan Billy and Wang, Song and Li, Rong and Wu, Qing and Gao, Wei and Wang, Yingshuo and Liu, Amber and Qu, Leigang and Ng, Lai Xing and Cottereau, Benoit R. and Liu, Ziwei and Chua, Tat-Seng and Ooi, Wei Tsang},
-    journal = {arXiv preprint arXiv:2605.xxxxx},
-    year    = {2026}
+  title   = {{AI} for {Auto-Research}: Roadmap \& User Guide},
+  author  = {Kong, Lingdong and Sun, Xian and Chow, Wei and Li, Linfeng and Lin, Kevin Qinghong and Zhang, Xuan Billy
+             and Wang, Song and Li, Rong and Wu, Qing and Gao, Wei and Wang, Yingshuo and Xie, Shaoyuan
+             and Liu, Jiachen and Qu, Leigang and Li, Shijie and Ng, Lai Xing and Cottereau, Benoit R.
+             and Liu, Ziwei and Chua, Tat-Seng and Ooi, Wei Tsang},
+  journal = {arXiv preprint arXiv:2605.xxxxx},
+  year    = {2026}
 }
 ```
 
