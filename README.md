@@ -10,7 +10,7 @@
 
 This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
 
-#### AI-Assisted Research
+### :robot: AI Auto-Research
 
 We organize the academic research lifecycle as eight interconnected stages grouped into four epistemological phases. Each phase serves a distinct function in producing, scrutinizing, and communicating scientific knowledge.
 
