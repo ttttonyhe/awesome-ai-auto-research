@@ -890,6 +890,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | [RD-Agent](https://github.com/microsoft/RD-Agent) | — | Microsoft's LLM framework for autonomous data science |
 | [MLAgentBench](https://github.com/snap-stanford/MLAgentBench) | ~334 | 13 end-to-end ML experimentation tasks |
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | — | Real-world GitHub issue resolution benchmark |
+| [Thoth](https://github.com/SeeleAI/Thoth) | ~44 | Dashboard-first Claude Code and Codex runtime for durable autoresearch runs, work-item locks, ledgers, and reviewable verdicts |
 
 
 ### Peer Review
