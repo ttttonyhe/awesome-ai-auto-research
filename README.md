@@ -42,11 +42,13 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ## Table of Contents
 - [**0. Background**](#background)
+<!--
     - [What Is AI Auto-Research?](#what-is-ai-auto-research)
     - [Five Central Findings](#five-central-findings)
 - [**Exhibition: AI-Generated Artifacts**](#exhibition-ai-generated-research-artifacts)
     - [Slide Decks](#ai-generated-slide-decks)
     - [Research Posters](#ai-generated-research-posters)
+-->
 - [**1. Idea Generation**](#1.-idea-generation)
     - [LLM Internal Knowledge-Based Generation](#llm-internal-knowledge-based-generation)
     - [External Signal-Driven Generation](#external-signal-driven-generation)
@@ -104,6 +106,7 @@ If you find this work helpful for your research, please kindly consider citing o
 |:-:|
 
 
+<!--
 # Background
 
 | | |
@@ -189,8 +192,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | [![09]( https://worldbench.github.io/assets/auto-research/posters/Claude-Opus4.7-Landscape.jpg)]( https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
 |:-:|
 | **09 Claude Opus 4.7** |
-
-
+-->
 # 1. Idea Generation
 
 ### LLM Internal Knowledge-Based Generation
