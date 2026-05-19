@@ -42,6 +42,11 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ## Table of Contents
 - [**0. Background**](#background)
+    - [What Is AI Auto-Research?](#what-is-ai-auto-research)
+    - [Five Central Findings](#five-central-findings)
+- [**Exhibition: AI-Generated Artifacts**](#exhibition-ai-generated-research-artifacts)
+    - [Slide Decks](#ai-generated-slide-decks)
+    - [Research Posters](#ai-generated-research-posters)
 - [**1. Idea Generation**](#1.-idea-generation)
     - [LLM Internal Knowledge-Based Generation](#llm-internal-knowledge-based-generation)
     - [External Signal-Driven Generation](#external-signal-driven-generation)
@@ -97,6 +102,94 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | <img width="100%" src="docs/assets/phase1.png"> |
 |:-:|
+
+
+# Background
+
+| | |
+|:-:|:-|
+| <img width="260px" src="docs/assets/teaser.png"> | AI-assisted research is crossing a threshold. Fully automated systems can now generate research papers for as little as **$15**, while long-horizon agents execute experiments, draft manuscripts, and simulate critique with minimal human input. Yet this productivity frontier exposes a deeper integrity problem: under scientific pressure, even frontier LLMs still **fabricate results**, miss hidden errors, and fail to judge novelty reliably. |
+| | |
+
+
+## What Is AI Auto-Research?
+
+"AI auto-research" refers to the use of AI systems to automate, assist, or accelerate stages of the **complete academic research lifecycle** -- from hypothesis formation to public dissemination. We organize the lifecycle into **eight interconnected stages** across **four phases**:
+
+| Phase | Stages | Function |
+|:-|:-|:-|
+| **Phase 1: Creation** | Idea Generation · Literature Review · Coding & Experiments · Tables & Figures | Materially producing a research contribution |
+| **Phase 2: Writing** | Paper Writing | Organizing outputs into a formal manuscript |
+| **Phase 3: Validation** | Peer Review · Rebuttal & Revision | External scrutiny and iterative refinement |
+| **Phase 4: Dissemination** | Paper2X (posters, slides, videos, agents) | Communicating findings to broader audiences |
+
+
+## What Is the Capability-Integrity Challenge?
+
+The central challenge is not whether AI can produce the *forms* of research, but whether it can preserve the *substance* -- evidence, judgment, provenance, and accountability:
+
+- **Artifact generation outpaces verification.** Generated ideas can appear novel yet weaken after implementation; generated code may run but implement the wrong algorithm; fluent prose can conceal unsupported claims.
+- **Capability boundaries emerge on open-ended tasks.** Performance drops sharply for genuinely novel ideas, long-horizon experiments, and scientific judgment.
+- **Human-governed collaboration is most credible.** AI should reduce mechanical friction while researchers retain responsibility for interpretation, experimental design, and accountability.
+
+
+## Five Central Findings
+
+| # | Finding |
+|:-:|:-|
+| 1 | **Structured tasks benefit most.** AI excels at grounded, externally checkable tasks; capability drops for novel, underspecified, or long-horizon work. |
+| 2 | **Artifact generation outpaces verification.** AI can produce plausible outputs faster than it can prove those outputs are correct, faithful, or meaningful. |
+| 3 | **Human-governed collaboration is most reliable.** The strongest deployment pattern across all stages is not full autonomy but human-AI collaboration. |
+| 4 | **Effective systems converge on layered architectures.** Exploration + execution + verification; orchestration and feedback design matter as much as model scale. |
+| 5 | **AI use is a governance problem, not a detection problem.** The key questions are disclosure, attribution, and whether scientific integrity is preserved. |
+
+| <img width="100%" src="docs/assets/teaser_paper.png"> |
+|:-:|
+| **AI auto-research across the complete lifecycle.** Four phases, eight stages. |
+
+
+
+# Exhibition: AI-Generated Research Artifacts
+
+> AI-generated outputs produced from this survey paper using state-of-the-art Paper2X tools. Click any thumbnail to visit the project page gallery.
+
+
+## AI-Generated Slide Decks
+
+Four automatically-generated presentation decks, each using a different AI tool.
+
+| | |
+|:-:|:-:|
+| [![GPT-5.5 Slides](https://worldbench.github.io/assets/auto-research/slides/slides-teaser-GPT5.5.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![NotebookLM Slides](https://worldbench.github.io/assets/auto-research/slides/slides-teaser-NotebookLM.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+| **GPT-5.5** (28 slides) &nbsp; [Download](https://worldbench.github.io/assets/auto-research/slides/slides-GPT5.5.pptx) | **NotebookLM** (11 slides) &nbsp; [Download](https://worldbench.github.io/assets/auto-research/slides/slides-NotebookLM.pptx) |
+| [![Claude Opus 4.7 Slides](https://worldbench.github.io/assets/auto-research/slides/slides-teaser-Opus4.7.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![Manus 1.6 Slides](https://worldbench.github.io/assets/auto-research/slides/slides-teaser-Manus-1.6.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+| **Claude Opus 4.7** (27 slides) &nbsp; [Download](https://worldbench.github.io/assets/auto-research/slides/slides-Opus4.7.pptx) | **Manus 1.6** (12 slides) &nbsp; [Download](https://worldbench.github.io/assets/auto-research/slides/slides-Manus-1.6.pptx) |
+
+
+## AI-Generated Research Posters
+
+Nine AI-generated posters -- six portrait and three landscape -- produced from the survey paper.
+
+**Portrait Format**
+
+| | | |
+|:-:|:-:|:-:|
+| [![01](https://worldbench.github.io/assets/auto-research/posters/Gemini-Pro.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![02](https://worldbench.github.io/assets/auto-research/posters/Qwen-Image-2.0.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![03](https://worldbench.github.io/assets/auto-research/posters/Claude-Opus4.7.jpg)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+| **01 Gemini Pro** | **02 Qwen-Image-2.0** | **03 Claude Opus 4.7** |
+| [![04](https://worldbench.github.io/assets/auto-research/posters/SenseNova-U1-8B-MoT.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![05](https://worldbench.github.io/assets/auto-research/posters/GPT-5.5.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![06](https://worldbench.github.io/assets/auto-research/posters/Seedream-4.0.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+| **04 SenseNova-U1** | **05 GPT-5.5** | **06 Seedream 4.0** |
+
+**Landscape Format**
+
+| | |
+|:-:|:-:|
+| [![07](https://worldbench.github.io/assets/auto-research/posters/Gemini-Pro-Landscape.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) | [![08](https://worldbench.github.io/assets/auto-research/posters/Qwen-Image-2.0-Landscape.png)](https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+| **07 Gemini Pro** | **08 Qwen-Image-2.0** |
+
+| [![09]( https://worldbench.github.io/assets/auto-research/posters/Claude-Opus4.7-Landscape.jpg)]( https://worldbench.github.io/awesome-ai-auto-research#exhibition) |
+|:-:|
+| **09 Claude Opus 4.7** |
+
 
 # 1. Idea Generation
 
