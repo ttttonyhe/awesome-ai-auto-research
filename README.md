@@ -1,5 +1,6 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.xxxxx-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.xxxxx)
+[![Project Page](https://img.shields.io/badge/Project-Page-orange?style=flat-square&logo=gitbook)](https://worldbench.github.io/awesome-ai-auto-research)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-ai-auto-research&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-ai-auto-research/pulls)
 
@@ -8,7 +9,7 @@
 | <img width="100%" src="docs/assets/teaser_paper.png"> |
 |:-:|
 
-This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide]()"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
+This repository accompanies the survey paper **"[AI for Auto-Research: Roadmap & User Guide](https://worldbench.github.io/awesome-ai-auto-research)"** and tracks papers on AI-assisted and automated scientific research, covering the **full research lifecycle**.
 
 ### :robot: AI Auto-Research
 
