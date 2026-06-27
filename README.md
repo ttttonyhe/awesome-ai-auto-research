@@ -338,6 +338,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `ScholarGym` | [![arXiv](https://img.shields.io/badge/arXiv-2601.21654-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.21654)<br>ScholarGym: Benchmarking Large Language Model Capabilities in the Information-Gathering Stage of Deep Research | arXiv '26 | - | - |
 | `SciNetBench` | [![arXiv](https://img.shields.io/badge/arXiv-2601.03260-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.03260)<br>SciNetBench: A Relation-Aware Benchmark for Scientific Literature Retrieval Agents | arXiv '26 | - | - |
 | `AutoResearchBench` | [![arXiv](https://img.shields.io/badge/arXiv-2604.25256-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.25256)<br>AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery | arXiv '26 | - | - |
+| `PaperMind` | [![arXiv](https://img.shields.io/badge/arXiv-2604.21304-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.21304)<br>PaperMind: Benchmarking Agentic Reasoning and Critique over Scientific Papers in Multimodal LLMs | arXiv '26 | - | - |
 ||
 
 
@@ -397,6 +398,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `SciNav` | [![arXiv](https://img.shields.io/badge/arXiv-2603.20256-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.20256)<br>SciNav: A General Agent Framework for Scientific Coding Tasks | arXiv '26 | - | - |
 | `FrontierScience` | [![arXiv](https://img.shields.io/badge/arXiv-2601.21165-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.21165)<br>FrontierScience: Evaluating AI's Ability to Perform Expert-Level Scientific Tasks | arXiv '26 | - | - |
 | `EvoDS` | [![arXiv](https://img.shields.io/badge/arXiv-2606.03841-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.03841)<br>EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management | arXiv '26 | - | - |
+| `AutoTTS` | [![arXiv](https://img.shields.io/badge/arXiv-2605.08083-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.08083)<br>LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/zhengkid/AutoTTS)](https://github.com/zhengkid/AutoTTS) |
 ||
 
 ### Code Correctness and Reproducibility Assessment
@@ -418,6 +420,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `EXP-Bench` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openreview.net/forum?id=KjgyAm383Z)<br>EXP-Bench: Can AI Conduct AI Research Experiments? | ICLR '26 | - | [![GitHub](https://img.shields.io/github/stars/Just-Curieous/Curie)](https://github.com/Just-Curieous/Curie/tree/main/benchmark/exp_bench) |
 | `PostTrainBench` | [![arXiv](https://img.shields.io/badge/arXiv-2603.08640-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08640)<br>PostTrainBench: Can LLM Agents Automate LLM Post-Training? | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/aisa-group/PostTrainBench)](https://github.com/aisa-group/PostTrainBench) |
 | `MLReplicate` | [![arXiv](https://img.shields.io/badge/arXiv-2605.16616-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.16616)<br>MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility | arXiv '26 | - | - |
+| `BeyondSWE` | [![arXiv](https://img.shields.io/badge/arXiv-2603.03194-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.03194)<br>BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing? | arXiv '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://aweai-team.github.io/BeyondSWE/) | [![GitHub](https://img.shields.io/github/stars/AweAI-Team/BeyondSWE)](https://github.com/AweAI-Team/BeyondSWE) |
 ||
 
 
@@ -789,7 +792,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `AutoResearchClaw` | - | GitHub 2026 | - | [![GitHub](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw)](https://github.com/aiming-lab/AutoResearchClaw) |
 | `CORAL` | [![arXiv](https://img.shields.io/badge/arXiv-2604.01658-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.01658)<br>CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/Human-Agent-Society/CORAL)](https://github.com/Human-Agent-Society/CORAL) |
 | `AutoSOTA` | [![arXiv](https://img.shields.io/badge/arXiv-2604.05550-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.05550)<br>AutoSOTA: An End-to-End Automated Research System for State-of-the-Art AI Model Discovery | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/tsinghua-fib-lab/AutoSOTA)](https://github.com/tsinghua-fib-lab/AutoSOTA) |
-| `AiScientist-LH` | [![arXiv](https://img.shields.io/badge/arXiv-2604.13018-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.13018)<br>Toward Autonomous Long-Horizon Engineering for ML Research | arXiv 2026 | - | - |
+| `AiScientist-LH` | [![arXiv](https://img.shields.io/badge/arXiv-2604.13018-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.13018)<br>Toward Autonomous Long-Horizon Engineering for ML Research | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/AweAI-Team/AiScientist)](https://github.com/AweAI-Team/AiScientist) |
 | `OpenResearcher (2026)` | [![arXiv](https://img.shields.io/badge/arXiv-2603.20278-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.20278)<br>OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher)](https://github.com/TIGER-AI-Lab/OpenResearcher) |
 | `Aletheia` | [![arXiv](https://img.shields.io/badge/arXiv-2602.10177-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.10177)<br>Towards Autonomous Mathematics Research | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/google-deepmind/superhuman)](https://github.com/google-deepmind/superhuman) |
 | `AutoSci` | [![arXiv](https://img.shields.io/badge/arXiv-2605.31468-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.31468)<br>AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle | arXiv 2026 | - | - |
