@@ -1045,6 +1045,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [![GitHub](https://img.shields.io/github/stars/assafelovic/gpt-researcher)](https://github.com/assafelovic/gpt-researcher) | Autonomous agent for comprehensive online research |
 | [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) | [![GitHub](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey)](https://github.com/AutoSurveys/AutoSurvey) | Automated comprehensive literature surveys |
 | [storm](https://github.com/stanford-oval/storm) | [![GitHub](https://img.shields.io/github/stars/stanford-oval/storm)](https://github.com/stanford-oval/storm) | Wikipedia-style article generation (STORM) |
+| [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) | [![GitHub](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server)](https://github.com/RetrogradeLabs/lune-mcp-server) | MCP server for full-text top-venue paper search, citation traversal, evidence extraction, and quote-backed claim verification |
 
 
 ### Coding & Experiments
